@@ -12,5 +12,4 @@ Repositório criado para o curso de TypeScript da DIO
 
 [Download NPM](https://www.npmjs.com/package/download)
 
-
-![introducao-ts](https://user-images.githubusercontent.com/73789587/175326101-f35cdd8c-75b8-43cd-868f-fd98c69d6883.jpg)
+![Introducao Pratica TypeScript](https://user-images.githubusercontent.com/73789587/175333787-959b21b2-65a1-4551-8b19-2edbbc9ac730.jpg)
